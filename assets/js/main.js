@@ -6,8 +6,8 @@ function calcularImc(peso,estatura){
 
   if (imc > 40) {
     alert("Tienes un índice de: "+ imc + " Debes cuidar tu salud!");
-  } else alert("Tienes un índice de: "+ imc);
-
+  }else alert("Tienes un índice de: "+ imc);
+}
 
 /* funcion Valentina Toledo
 function calculadora(){
